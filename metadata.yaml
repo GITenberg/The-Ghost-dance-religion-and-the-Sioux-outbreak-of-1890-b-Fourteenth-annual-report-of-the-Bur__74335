@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '43796'
     url: http://www.gutenberg.org/2009/agents/43796
     wikipedia: https://en.wikipedia.org/wiki/Mary_Wright_Gill
+covers:
+- cover_type: archival
+  image_path: 74335-h/images/cover.jpg
 creator:
   author:
     agent_name: Mooney, James
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26733
     wikipedia: https://en.wikipedia.org/wiki/James_Mooney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74335#The-Ghost-dance-religion-and-the-Sioux-outbreak-of-1890-b-Fourteenth-annual-report-of-the-Bur_
 gutenberg_issued: '2024-08-30'
 gutenberg_type: Text
 identifiers:
